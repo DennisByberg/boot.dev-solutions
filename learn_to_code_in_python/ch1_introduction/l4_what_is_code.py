@@ -1,4 +1,4 @@
-# --- l4_what_is_code ---
+# --- Assignment ---
 # What's Python not really used for?
 
 # --- Answer ---

@@ -1,4 +1,4 @@
-# --- l5_what_is_python ---
+# --- Assignment ---
 # Python is known for being...
 
 # --- Answer ---

@@ -1,4 +1,4 @@
-# --- l9_syntax_errors_quiz ---
+# --- Assignment ---
 # What does syntax mean?
 
 # --- Answer ---

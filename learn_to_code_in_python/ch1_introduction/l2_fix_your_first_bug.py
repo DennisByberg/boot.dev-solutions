@@ -1,4 +1,4 @@
-# --- l2_fix_your_first_bug ---
+# --- Assignment ---
 # Fix the math bug on line 6.
 
 # --- Answer ---

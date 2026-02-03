@@ -1,4 +1,4 @@
-# --- l9_syntax_errors_quiz ---
+# --- Assignment ---
 # What happens if you try to run code with invalid syntax?
 
 # --- Answer ---

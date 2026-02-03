@@ -1,4 +1,4 @@
-# --- l7_multiple_instructions ---
+# --- Assignment ---
 # The dialogue in our game should display in the correct order! In the first level,
 # our hero encounters a talking owl named Jax.
 
